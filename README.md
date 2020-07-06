@@ -1,2 +1,3 @@
 # kimcy929
-About me
+## About me
+## A solo Android dev.
